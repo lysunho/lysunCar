@@ -1,0 +1,31 @@
+.city{
+	padding:24px 0px 28px;
+}
+.city .box{
+	margin:16px 0px;
+}
+.city  h2{
+	margin-bottom:35px;
+	font-size:20px;
+	font-weight:bold;
+	color:#333333;
+}
+.city  h3{
+	margin-bottom:10px;
+	font-size:16px;
+	font-weight:bold;
+	color:#333333;
+}
+.city p a{
+	margin-right:20px;
+	font-size:14px;
+	color:#666666;
+}
+.city  h3.title:hover{
+	color:#FF5517;
+	cursor:pointer;
+}
+.city p a:hover{
+	color:#FF5517;
+	cursor:pointer;
+}

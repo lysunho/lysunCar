@@ -1,0 +1,41 @@
+.main .main_inner{
+	margin:0px auto;
+	padding:24px 0px 42px;
+	width:1080px;
+}
+.main .box{
+}
+.main .box p{
+	float:left;
+	margin-right:30px;
+	width:48px;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	border:1px solid #999999;
+	font-weight:bold;
+	color:#666666;
+}
+.main .box ul{
+	float:left;
+	width:1000px;
+}
+.main .box ul li{
+	margin-bottom:20px;
+}
+.main .box ul li a.title{
+	margin-right:30px;
+	font-size:16px;
+	color:#666666;
+	font-weight:bold;
+	cursor:pointer;
+}
+.main .box ul li a.title:hover,.main .box ul li a.anchor:hover{
+	color:#FF5517;
+}
+.main .box ul li a.anchor{
+	margin-right:20px;
+	line-height:30px;
+	color:#666666;
+	cursor:pointer;
+}

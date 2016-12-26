@@ -1,0 +1,49 @@
+.main .main_inner{
+	margin:0px auto;
+	padding:68px 0px 56px;
+	width:940px;
+}
+.main h2{
+	margin-bottom:20px;
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+	color:#444444;
+}
+.main p{
+	line-height:35px;
+	color:#444444;
+}
+.main span{
+	display:block;
+	margin:40px 0px 10px;
+	font-size:16px;
+	color:#FF8C00;
+}
+.main #customers{
+	border-collapse:collapse;
+}
+.main #customers th.num{
+	width:110px;
+}
+.main #customers th.part{
+	width:255px;
+}
+.main #customers th.detail{
+	width:568px;
+}
+.main #customers td,.main #customers th{
+	height:42px;
+	text-align:center;
+	border:1px solid #000;
+}
+.main #customers th{
+	background-color:#000;
+	color:#fff;
+}
+.main #customers td{
+	background-color:#F2F2F2;
+	font-weight:bold;
+	color:#000000;
+}
+
